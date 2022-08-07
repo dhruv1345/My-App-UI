@@ -1,6 +1,7 @@
 # app
 
 A new Flutter project.
+It contains a slider button along with animations and text styling.
 
 ## Getting Started
 
